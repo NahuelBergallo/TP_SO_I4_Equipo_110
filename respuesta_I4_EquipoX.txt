@@ -1,0 +1,22 @@
+A- ¿Qué color de fondo tiene su página en el TESTING ?
+red
+B- ¿Qué color de fondo tiene su página en el DESARROLLO ?
+yellow
+C- ¿Qué color de fondo tiene su página en el MASTER?
+Del que se mergeo
+D- ¿Qué favicon quedó en el MASTER el de ALFA o el de BETA?
+eL ULTIMO QUE HISO PUSH 
+
+E- ¿Algún integrante tuvo problemas al hacer el push?
+No
+
+F- ¿Qué problemas surgieron?
+Surgio el choque entre colores ya que cuando quieres unificarlos ambos tienen colores difertentes
+G- ¿Qué soluciones pueden aplicar y cual seria la consecuencia de cada solución
+adoptada?
+debe modificarse y quedarse con un color 
+H- ¿Qué sucede si cada uno utiliza el push -f?
+se van borrando las ramas sucesivamente lkos usuarios 
+I- ¿Qué debo hacer para que el index.html tengas todos los <p> de los puntos 18,19 y 20
+en DESARROLLO ?
+deben o ponerlos separados o modificarlso desde consola 
